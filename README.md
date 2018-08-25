@@ -3,8 +3,6 @@
 
 Learn (convnet-generated) adversarial perturbations for a single image or video:
 
-[//]: <> (![](pert block diag.png))
-
 <img src="pert block diag.png" width=224 height=448>
 
 where X = original image or video, P = perturbation generator (a convnet), X' = perturbed image or video, M = image or video classification model, y' = output of model M with input X', loss = the loss used for backpropagation. The backpropagated loss was used to update the parameters of model P, and the process was repeated for a number of epochs.
@@ -43,7 +41,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_8_0.png)
+![png](README_files/README_7_0.png)
 
 
     100%|██████████| 2000/2000 [07:35<00:00,  4.39it/s]
@@ -84,7 +82,7 @@ perturbate.main(
 
 
 
-![png](README_files/README_8_3.png)
+![png](README_files/README_7_3.png)
 
 
 ## Image sample 2
@@ -117,7 +115,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_10_0.png)
+![png](README_files/README_9_0.png)
 
 
     100%|██████████| 2000/2000 [07:43<00:00,  4.31it/s]
@@ -168,7 +166,7 @@ perturbate.main(
 
 
 
-![png](README_files/README_10_5.png)
+![png](README_files/README_9_5.png)
 
 
 ## Image sample 3
@@ -201,7 +199,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_12_0.png)
+![png](README_files/README_11_0.png)
 
 
     100%|██████████| 2000/2000 [07:34<00:00,  4.40it/s]
@@ -252,7 +250,7 @@ perturbate.main(
 
 
 
-![png](README_files/README_12_5.png)
+![png](README_files/README_11_5.png)
 
 
 ## Image sample 4
@@ -285,7 +283,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_14_0.png)
+![png](README_files/README_13_0.png)
 
 
     100%|██████████| 2000/2000 [07:42<00:00,  4.33it/s]
@@ -342,7 +340,7 @@ perturbate.main(
 
 
 
-![png](README_files/README_14_7.png)
+![png](README_files/README_13_7.png)
 
 
 ## Image sample 5
@@ -375,7 +373,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_16_0.png)
+![png](README_files/README_15_0.png)
 
 
     100%|██████████| 2000/2000 [07:34<00:00,  4.40it/s]
@@ -416,7 +414,7 @@ perturbate.main(
 
 
 
-![png](README_files/README_16_3.png)
+![png](README_files/README_15_3.png)
 
 
 ## Image sample 6
@@ -449,7 +447,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_18_0.png)
+![png](README_files/README_17_0.png)
 
 
     100%|██████████| 2000/2000 [07:50<00:00,  4.25it/s]
@@ -490,7 +488,7 @@ perturbate.main(
 
 
 
-![png](README_files/README_18_3.png)
+![png](README_files/README_17_3.png)
 
 
 ## Dog to polar bear
@@ -524,7 +522,7 @@ perturbate2.main(
 ```
 
 
-![png](README_files/README_20_0.png)
+![png](README_files/README_19_0.png)
 
 
     100%|██████████| 2000/2000 [08:13<00:00,  4.05it/s]
@@ -581,7 +579,7 @@ perturbate2.main(
 
 
 
-![png](README_files/README_20_7.png)
+![png](README_files/README_19_7.png)
 
 
 # Video perturbations
@@ -625,7 +623,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_25_0.png)
+![png](README_files/README_24_0.png)
 
 
     100%|██████████| 2000/2000 [1:02:18<00:00,  1.87s/it]
@@ -704,7 +702,7 @@ deep_explanation.main(
 ```
 
 
-![png](README_files/README_28_0.png)
+![png](README_files/README_27_0.png)
 
 
     100%|██████████| 2000/2000 [1:00:25<00:00,  1.81s/it]
@@ -783,7 +781,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_31_0.png)
+![png](README_files/README_30_0.png)
 
 
     100%|██████████| 2000/2000 [1:02:16<00:00,  1.87s/it]
@@ -862,7 +860,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_34_0.png)
+![png](README_files/README_33_0.png)
 
 
     100%|██████████| 2000/2000 [1:02:42<00:00,  1.88s/it]
@@ -941,7 +939,7 @@ perturbate.main(
 ```
 
 
-![png](README_files/README_37_0.png)
+![png](README_files/README_36_0.png)
 
 
     100%|██████████| 2000/2000 [1:05:42<00:00,  1.97s/it]
