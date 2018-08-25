@@ -1,0 +1,1001 @@
+,imagenet_class,original_score,perturbated_score
+0,"tench, Tinca tinca",4.5484168e-09,2.8184928e-08
+1,"goldfish, Carassius auratus",3.2401024e-09,1.5308018e-08
+2,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",3.112546e-07,3.1547043e-07
+3,"tiger shark, Galeocerdo cuvieri",3.782634e-09,1.2258793e-07
+4,"hammerhead, hammerhead shark",2.2427455e-08,1.06707505e-08
+5,"electric ray, crampfish, numbfish, torpedo",1.8704194e-09,9.33082e-08
+6,stingray,5.2360543e-09,3.3590855e-08
+7,cock,2.086167e-08,7.297505e-08
+8,hen,1.421337e-07,2.1725202e-07
+9,"ostrich, Struthio camelus",3.931292e-09,3.319522e-07
+10,"brambling, Fringilla montifringilla",7.918147e-10,8.9365976e-10
+11,"goldfinch, Carduelis carduelis",4.198312e-08,4.3575128e-07
+12,"house finch, linnet, Carpodacus mexicanus",1.0577479e-09,6.4255077e-09
+13,"junco, snowbird",2.3070443e-09,8.110589e-09
+14,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",6.7772987e-10,9.7518324e-08
+15,"robin, American robin, Turdus migratorius",6.054806e-10,2.2721938e-09
+16,bulbul,1.0830945e-08,1.835148e-08
+17,jay,9.537638e-08,1.293824e-05
+18,magpie,3.5802078e-08,8.709449e-08
+19,chickadee,5.280215e-08,2.0428147e-06
+20,"water ouzel, dipper",5.6866792e-08,4.3106922e-08
+21,kite,1.6981045e-07,2.9666724e-05
+22,"bald eagle, American eagle, Haliaeetus leucocephalus",6.7395655e-07,3.295319e-06
+23,vulture,9.8001614e-08,6.944637e-05
+24,"great grey owl, great gray owl, Strix nebulosa",3.6609094e-07,9.557932e-05
+25,"European fire salamander, Salamandra salamandra",2.2066815e-09,2.1061786e-09
+26,"common newt, Triturus vulgaris",3.922422e-10,2.2141958e-10
+27,eft,1.4202557e-09,2.341643e-10
+28,"spotted salamander, Ambystoma maculatum",5.5211116e-09,4.2557584e-09
+29,"axolotl, mud puppy, Ambystoma mexicanum",1.289623e-09,5.4469396e-08
+30,"bullfrog, Rana catesbeiana",1.0190165e-09,9.0889136e-11
+31,"tree frog, tree-frog",9.548303e-10,7.2094015e-09
+32,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",4.9664894e-10,2.1342383e-10
+33,"loggerhead, loggerhead turtle, Caretta caretta",6.014297e-08,1.305085e-07
+34,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",1.3616665e-07,2.40669e-07
+35,mud turtle,6.6184254e-09,1.6395367e-09
+36,terrapin,1.9892072e-08,8.3847505e-07
+37,"box turtle, box tortoise",2.8799167e-09,1.6940471e-10
+38,banded gecko,5.903037e-11,7.8856016e-10
+39,"common iguana, iguana, Iguana iguana",6.941992e-09,7.849546e-09
+40,"American chameleon, anole, Anolis carolinensis",2.879197e-09,1.0224604e-08
+41,"whiptail, whiptail lizard",1.121493e-10,1.1262429e-09
+42,agama,1.7726709e-10,5.198998e-10
+43,"frilled lizard, Chlamydosaurus kingi",1.8852249e-10,1.178911e-09
+44,alligator lizard,9.0916463e-10,2.9477822e-09
+45,"Gila monster, Heloderma suspectum",2.673137e-09,3.4606182e-10
+46,"green lizard, Lacerta viridis",1.240502e-09,5.779706e-09
+47,"African chameleon, Chamaeleo chamaeleon",4.1622292e-10,8.828356e-10
+48,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",6.322082e-09,3.933721e-08
+49,"African crocodile, Nile crocodile, Crocodylus niloticus",3.3974121e-09,1.9735956e-10
+50,"American alligator, Alligator mississipiensis",2.2702862e-08,1.7961344e-08
+51,triceratops,5.2989146e-10,5.4425882e-08
+52,"thunder snake, worm snake, Carphophis amoenus",4.960792e-09,8.761061e-09
+53,"ringneck snake, ring-necked snake, ring snake",8.554119e-09,4.6160615e-08
+54,"hognose snake, puff adder, sand viper",1.0679426e-09,2.0541269e-09
+55,"green snake, grass snake",6.1676975e-09,3.449169e-08
+56,"king snake, kingsnake",7.0113443e-10,1.6257666e-09
+57,"garter snake, grass snake",7.5164236e-10,3.1570588e-10
+58,water snake,3.9704924e-09,7.5765145e-09
+59,vine snake,1.7617039e-09,4.634356e-09
+60,"night snake, Hypsiglena torquata",4.8269007e-09,2.0698743e-09
+61,"boa constrictor, Constrictor constrictor",3.2740028e-09,4.2653965e-09
+62,"rock python, rock snake, Python sebae",7.648447e-10,6.536592e-11
+63,"Indian cobra, Naja naja",2.1179192e-09,1.2442393e-07
+64,green mamba,1.2154446e-08,2.0059282e-08
+65,sea snake,2.462103e-08,8.3225906e-08
+66,"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",4.8001264e-10,3.5691014e-10
+67,"diamondback, diamondback rattlesnake, Crotalus adamanteus",1.6706924e-09,2.2208278e-10
+68,"sidewinder, horned rattlesnake, Crotalus cerastes",3.621163e-10,7.2760376e-10
+69,trilobite,1.0949961e-09,8.25593e-09
+70,"harvestman, daddy longlegs, Phalangium opilio",1.5493521e-09,5.7916845e-11
+71,scorpion,2.2409399e-09,1.562731e-08
+72,"black and gold garden spider, Argiope aurantia",9.279014e-08,9.910215e-09
+73,"barn spider, Araneus cavaticus",5.5056004e-09,2.343056e-09
+74,"garden spider, Aranea diademata",1.5685284e-08,1.6328052e-09
+75,"black widow, Latrodectus mactans",4.748427e-08,5.6093996e-09
+76,tarantula,8.139944e-10,3.1516094e-09
+77,"wolf spider, hunting spider",2.7565505e-09,6.008164e-10
+78,tick,3.6241378e-08,9.268402e-08
+79,centipede,2.276981e-09,5.369214e-09
+80,black grouse,1.0480247e-08,4.021181e-08
+81,ptarmigan,8.063262e-08,1.17861426e-07
+82,"ruffed grouse, partridge, Bonasa umbellus",6.169933e-09,2.587771e-08
+83,"prairie chicken, prairie grouse, prairie fowl",1.4035914e-09,2.3121318e-08
+84,peacock,3.9587413e-09,7.687488e-07
+85,quail,3.1040412e-09,5.941243e-08
+86,partridge,1.3391809e-09,2.6313618e-08
+87,"African grey, African gray, Psittacus erithacus",1.0825029e-06,0.9960968
+88,macaw,2.6935645e-08,0.00016036043
+89,"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",2.905603e-07,9.168188e-05
+90,lorikeet,5.3297318e-09,7.478059e-08
+91,coucal,4.1199175e-10,2.8631437e-09
+92,bee eater,7.217026e-10,5.779516e-10
+93,hornbill,7.4341173e-09,1.0031165e-08
+94,hummingbird,6.1700944e-10,1.2173648e-08
+95,jacamar,2.2125342e-10,4.8923515e-10
+96,toucan,7.4195823e-09,6.13282e-08
+97,drake,4.792008e-08,7.376337e-07
+98,"red-breasted merganser, Mergus serrator",6.9069532e-09,2.8145818e-08
+99,goose,2.3678515e-06,8.365406e-05
+100,"black swan, Cygnus atratus",9.895159e-07,1.2128652e-06
+101,tusker,3.416167e-08,3.931908e-07
+102,"echidna, spiny anteater, anteater",7.991628e-10,1.4257543e-08
+103,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",4.167045e-09,4.5507045e-07
+104,"wallaby, brush kangaroo",1.5379145e-08,1.1773201e-09
+105,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",1.7631697e-09,8.195531e-08
+106,wombat,3.971492e-09,3.4505292e-09
+107,jellyfish,2.7507744e-08,1.4130241e-07
+108,"sea anemone, anemone",6.727255e-09,8.702022e-09
+109,brain coral,6.461452e-08,3.355423e-08
+110,"flatworm, platyhelminth",1.1296559e-09,1.4389057e-08
+111,"nematode, nematode worm, roundworm",4.068272e-09,5.302839e-08
+112,conch,3.3847172e-08,1.1437197e-08
+113,snail,1.1885397e-08,8.6108626e-10
+114,slug,2.737082e-09,6.230322e-09
+115,"sea slug, nudibranch",1.3593129e-09,2.5283982e-09
+116,"chiton, coat-of-mail shell, sea cradle, polyplacophore",4.477917e-09,8.025161e-11
+117,"chambered nautilus, pearly nautilus, nautilus",1.5031706e-09,4.175541e-08
+118,"Dungeness crab, Cancer magister",1.5138113e-08,1.655275e-10
+119,"rock crab, Cancer irroratus",6.281959e-09,3.939602e-11
+120,fiddler crab,3.62699e-10,6.559998e-11
+121,"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",1.0344841e-08,4.3491377e-11
+122,"American lobster, Northern lobster, Maine lobster, Homarus americanus",3.82017e-09,8.4257754e-11
+123,"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",4.087242e-09,5.2636745e-10
+124,"crayfish, crawfish, crawdad, crawdaddy",2.5041308e-08,9.879904e-09
+125,hermit crab,8.743072e-09,2.6501985e-09
+126,isopod,1.7609388e-08,1.0072775e-07
+127,"white stork, Ciconia ciconia",5.217301e-06,1.0770957e-06
+128,"black stork, Ciconia nigra",2.7091968e-08,2.641031e-08
+129,spoonbill,1.3659142e-07,1.6431583e-06
+130,flamingo,5.990256e-08,1.1898045e-06
+131,"little blue heron, Egretta caerulea",7.0026914e-08,6.7367814e-06
+132,"American egret, great white heron, Egretta albus",1.650752e-06,8.2461065e-06
+133,bittern,4.9728808e-09,2.618275e-08
+134,crane,3.9834336e-07,6.802104e-05
+135,"limpkin, Aramus pictus",8.172227e-09,1.3819437e-08
+136,"European gallinule, Porphyrio porphyrio",1.4573407e-08,1.46728e-08
+137,"American coot, marsh hen, mud hen, water hen, Fulica americana",7.6401584e-08,1.5487983e-07
+138,bustard,2.6865905e-09,7.01823e-06
+139,"ruddy turnstone, Arenaria interpres",3.2059553e-08,2.5494877e-09
+140,"red-backed sandpiper, dunlin, Erolia alpina",2.0692532e-08,4.463976e-07
+141,"redshank, Tringa totanus",1.8338827e-08,8.67405e-09
+142,dowitcher,7.662307e-09,4.0138975e-10
+143,"oystercatcher, oyster catcher",6.558665e-07,4.9393942e-09
+144,pelican,5.258915e-07,0.00017398795
+145,"king penguin, Aptenodytes patagonica",4.452081e-08,2.8524373e-06
+146,"albatross, mollymawk",1.5586287e-06,2.3244633e-05
+147,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",2.3882316e-07,9.690257e-08
+148,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",8.198049e-09,4.10958e-09
+149,"dugong, Dugong dugon",2.5259516e-07,2.183502e-05
+150,sea lion,6.599357e-08,1.0986287e-06
+151,Chihuahua,2.8822194e-07,1.1797271e-06
+152,Japanese spaniel,1.5947871e-06,1.1583857e-07
+153,"Maltese dog, Maltese terrier, Maltese",7.0028177e-06,6.9373914e-06
+154,"Pekinese, Pekingese, Peke",3.5939943e-06,9.3542764e-07
+155,Shih-Tzu,5.513309e-07,2.306176e-07
+156,Blenheim spaniel,3.054039e-07,1.12971655e-07
+157,papillon,5.3431114e-07,2.3107366e-06
+158,toy terrier,2.46581e-07,1.8288995e-07
+159,Rhodesian ridgeback,1.6539367e-06,6.3017676e-09
+160,"Afghan hound, Afghan",1.41581e-06,5.0162625e-06
+161,"basset, basset hound",4.5034444e-06,3.9743728e-07
+162,beagle,1.5935572e-06,2.1566518e-07
+163,"bloodhound, sleuthhound",5.6522435e-06,3.1800393e-08
+164,bluetick,4.0047244e-06,3.4577454e-06
+165,black-and-tan coonhound,1.385293e-07,1.34670355e-08
+166,"Walker hound, Walker foxhound",2.188174e-06,4.3513705e-07
+167,English foxhound,3.4253962e-06,3.7605126e-08
+168,redbone,1.2983669e-06,7.0429067e-09
+169,"borzoi, Russian wolfhound",8.3288985e-05,8.8021525e-06
+170,Irish wolfhound,9.9453886e-05,1.1076423e-06
+171,Italian greyhound,4.5428877e-08,2.5054958e-06
+172,whippet,5.9351686e-07,7.767806e-06
+173,"Ibizan hound, Ibizan Podenco",9.012263e-06,9.61995e-07
+174,"Norwegian elkhound, elkhound",1.1728072e-05,1.2023521e-07
+175,"otterhound, otter hound",0.00011859775,2.727473e-07
+176,"Saluki, gazelle hound",2.3884983e-05,5.2902647e-05
+177,"Scottish deerhound, deerhound",5.7904945e-06,4.6611632e-07
+178,Weimaraner,1.3653649e-05,1.1398515e-05
+179,"Staffordshire bullterrier, Staffordshire bull terrier",5.9806603e-06,1.9598879e-07
+180,"American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",5.9248455e-06,8.102456e-07
+181,Bedlington terrier,2.1668897e-05,9.836528e-05
+182,Border terrier,6.985196e-06,9.4619004e-08
+183,Kerry blue terrier,4.647243e-07,1.4584998e-07
+184,Irish terrier,4.658381e-05,4.0866716e-08
+185,Norfolk terrier,1.2193824e-05,1.6694058e-07
+186,Norwich terrier,5.970013e-07,1.382521e-08
+187,Yorkshire terrier,2.1733829e-08,1.00321795e-08
+188,wire-haired fox terrier,1.2096548e-06,1.0187837e-07
+189,Lakeland terrier,3.1774607e-07,1.408359e-08
+190,"Sealyham terrier, Sealyham",5.3108273e-05,1.1334845e-06
+191,"Airedale, Airedale terrier",4.857304e-07,1.4188554e-08
+192,"cairn, cairn terrier",1.334555e-06,6.969041e-08
+193,Australian terrier,7.479138e-07,1.2295992e-07
+194,"Dandie Dinmont, Dandie Dinmont terrier",3.3664355e-06,3.8607737e-07
+195,"Boston bull, Boston terrier",4.4100875e-07,7.82427e-07
+196,miniature schnauzer,2.5820134e-07,9.85971e-08
+197,giant schnauzer,2.8334987e-06,4.4508468e-08
+198,standard schnauzer,3.5919842e-07,5.917358e-08
+199,"Scotch terrier, Scottish terrier, Scottie",4.6709926e-07,1.9731383e-08
+200,"Tibetan terrier, chrysanthemum dog",0.00017065083,4.1998885e-07
+201,"silky terrier, Sydney silky",2.5627815e-08,1.3687906e-08
+202,soft-coated wheaten terrier,4.9155733e-05,4.7797295e-07
+203,West Highland white terrier,1.0887445e-05,3.6660408e-06
+204,"Lhasa, Lhasa apso",9.903398e-06,1.2189925e-06
+205,flat-coated retriever,0.00011152145,1.0656706e-06
+206,curly-coated retriever,3.0249708e-05,2.6803923e-07
+207,golden retriever,0.023604434,2.4296257e-06
+208,Labrador retriever,0.003112481,6.6491007e-06
+209,Chesapeake Bay retriever,4.8245725e-05,4.353053e-08
+210,German short-haired pointer,2.4284634e-07,6.346062e-08
+211,"vizsla, Hungarian pointer",9.3578876e-07,1.9877406e-09
+212,English setter,0.00069341954,3.874525e-05
+213,"Irish setter, red setter",1.8563389e-06,1.276391e-08
+214,Gordon setter,3.556182e-05,7.928894e-08
+215,Brittany spaniel,6.2967934e-05,4.216443e-07
+216,"clumber, clumber spaniel",0.00045557084,1.0082631e-06
+217,"English springer, English springer spaniel",1.11420395e-05,4.629115e-06
+218,Welsh springer spaniel,1.2415408e-06,2.66075e-08
+219,"cocker spaniel, English cocker spaniel, cocker",1.5902668e-05,1.6909789e-06
+220,Sussex spaniel,1.2526616e-05,1.889127e-08
+221,Irish water spaniel,2.0881406e-07,8.153273e-09
+222,kuvasz,0.8234252,0.00033763263
+223,schipperke,1.5035156e-06,3.6436735e-08
+224,groenendael,4.568861e-06,4.065556e-08
+225,malinois,5.262838e-07,3.2702385e-08
+226,briard,4.7602202e-06,1.0216578e-07
+227,kelpie,7.605685e-06,1.1025074e-07
+228,komondor,5.5243227e-06,1.174034e-05
+229,"Old English sheepdog, bobtail",0.0015878665,6.4103355e-05
+230,"Shetland sheepdog, Shetland sheep dog, Shetland",5.21786e-07,9.241959e-08
+231,collie,0.0002787817,1.6906708e-06
+232,Border collie,0.0006407147,2.0824156e-05
+233,"Bouvier des Flandres, Bouviers des Flandres",1.3625597e-06,8.760259e-09
+234,Rottweiler,3.4535458e-06,1.687425e-08
+235,"German shepherd, German shepherd dog, German police dog, alsatian",5.786573e-05,4.3913804e-08
+236,"Doberman, Doberman pinscher",1.9024152e-06,1.8742114e-08
+237,miniature pinscher,6.4676007e-09,1.6568654e-08
+238,Greater Swiss Mountain dog,5.4012355e-05,2.0924867e-07
+239,Bernese mountain dog,2.8384145e-05,3.853018e-08
+240,Appenzeller,1.6429442e-05,4.519635e-08
+241,EntleBucher,7.7651e-06,5.044355e-08
+242,boxer,7.23796e-06,6.1046046e-07
+243,bull mastiff,6.737114e-06,1.0889211e-07
+244,Tibetan mastiff,7.65434e-05,2.4392673e-08
+245,French bulldog,6.183614e-08,8.641095e-08
+246,Great Dane,1.5896072e-05,1.2317719e-05
+247,"Saint Bernard, St Bernard",0.00014000214,5.466322e-07
+248,"Eskimo dog, husky",6.7423876e-05,1.6450241e-06
+249,"malamute, malemute, Alaskan malamute",1.3577402e-05,1.2091025e-06
+250,Siberian husky,6.755753e-06,2.8636616e-06
+251,"dalmatian, coach dog, carriage dog",0.00024007974,0.00026259598
+252,"affenpinscher, monkey pinscher, monkey dog",5.0239933e-08,1.4743374e-09
+253,basenji,3.2673123e-07,1.5848958e-08
+254,"pug, pug-dog",2.0249831e-06,7.117064e-07
+255,Leonberg,0.00013019366,6.5194186e-08
+256,"Newfoundland, Newfoundland dog",0.00035748826,3.8461476e-07
+257,Great Pyrenees,0.14124137,3.3575598e-05
+258,"Samoyed, Samoyede",0.00028367512,5.6358326e-06
+259,Pomeranian,3.2090037e-07,1.3647505e-07
+260,"chow, chow chow",5.4373995e-06,1.880467e-08
+261,keeshond,1.5706846e-07,2.035194e-08
+262,Brabancon griffon,1.949426e-07,2.3587678e-09
+263,"Pembroke, Pembroke Welsh corgi",3.6003627e-07,6.138458e-09
+264,"Cardigan, Cardigan Welsh corgi",4.0567024e-06,3.4774747e-08
+265,toy poodle,1.7641275e-06,6.6932917e-06
+266,miniature poodle,3.1007203e-06,1.6048893e-06
+267,standard poodle,4.4495875e-05,1.0068022e-05
+268,Mexican hairless,1.0798003e-08,3.3291727e-07
+269,"timber wolf, grey wolf, gray wolf, Canis lupus",4.9970295e-06,5.299186e-07
+270,"white wolf, Arctic wolf, Canis lupus tundrarum",0.00016000844,1.8137016e-05
+271,"red wolf, maned wolf, Canis rufus, Canis niger",2.2508408e-08,6.8434497e-10
+272,"coyote, prairie wolf, brush wolf, Canis latrans",1.4985334e-07,4.497447e-09
+273,"dingo, warrigal, warragal, Canis dingo",3.9989272e-06,2.6618363e-08
+274,"dhole, Cuon alpinus",2.500103e-08,1.1650803e-10
+275,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",1.7568762e-08,2.0748299e-10
+276,"hyena, hyaena",1.147109e-08,1.3543308e-08
+277,"red fox, Vulpes vulpes",3.75055e-09,7.774415e-10
+278,"kit fox, Vulpes macrotis",1.2430412e-09,2.4813382e-10
+279,"Arctic fox, white fox, Alopex lagopus",3.5019982e-06,2.216596e-06
+280,"grey fox, gray fox, Urocyon cinereoargenteus",3.9464227e-09,2.1901339e-09
+281,"tabby, tabby cat",4.0135197e-09,3.129108e-08
+282,tiger cat,1.1716339e-08,8.054094e-08
+283,Persian cat,2.8868309e-08,1.4914762e-07
+284,"Siamese cat, Siamese",2.4353177e-08,7.139561e-08
+285,Egyptian cat,1.6195076e-08,7.5777945e-07
+286,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",1.9204038e-09,1.7691612e-09
+287,"lynx, catamount",4.05177e-09,1.2341251e-08
+288,"leopard, Panthera pardus",1.3176797e-09,3.6370618e-09
+289,"snow leopard, ounce, Panthera uncia",9.793514e-09,4.088418e-08
+290,"jaguar, panther, Panthera onca, Felis onca",4.8814983e-09,3.3739553e-09
+291,"lion, king of beasts, Panthera leo",3.5086977e-08,1.1022834e-09
+292,"tiger, Panthera tigris",6.444749e-08,3.4230844e-08
+293,"cheetah, chetah, Acinonyx jubatus",4.7141775e-09,2.1332353e-08
+294,"brown bear, bruin, Ursus arctos",4.42761e-07,6.2337935e-09
+295,"American black bear, black bear, Ursus americanus, Euarctos americanus",7.317968e-09,4.2783413e-10
+296,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.00051595474,0.00019151437
+297,"sloth bear, Melursus ursinus, Ursus ursinus",7.592366e-08,3.9497426e-08
+298,mongoose,8.3776985e-09,8.157431e-08
+299,"meerkat, mierkat",4.6582272e-08,4.5625896e-07
+300,tiger beetle,3.2672828e-10,1.2951627e-10
+301,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",1.8559353e-08,1.5781781e-08
+302,"ground beetle, carabid beetle",1.3897602e-09,4.2764507e-09
+303,"long-horned beetle, longicorn, longicorn beetle",2.96487e-09,4.7491838e-08
+304,"leaf beetle, chrysomelid",6.635021e-09,2.1413669e-09
+305,dung beetle,1.8046068e-09,1.4300102e-09
+306,rhinoceros beetle,6.4525065e-09,2.2782357e-08
+307,weevil,1.10617275e-08,7.29912e-08
+308,fly,8.892938e-10,4.667239e-09
+309,bee,9.937589e-10,1.2580023e-09
+310,"ant, emmet, pismire",3.1988762e-08,1.5605236e-08
+311,"grasshopper, hopper",1.5854164e-09,1.3613972e-10
+312,cricket,1.1599817e-09,2.8150784e-10
+313,"walking stick, walkingstick, stick insect",2.4814977e-09,4.931277e-10
+314,"cockroach, roach",4.715104e-09,7.190913e-10
+315,"mantis, mantid",2.6859754e-09,1.0636951e-09
+316,"cicada, cicala",1.6577162e-09,4.556662e-09
+317,leafhopper,1.5765846e-08,5.7792655e-09
+318,"lacewing, lacewing fly",7.896022e-10,2.5391995e-09
+319,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",1.2042454e-09,1.9736163e-08
+320,damselfly,7.454361e-10,9.1246644e-10
+321,admiral,1.6120056e-09,1.6678471e-10
+322,"ringlet, ringlet butterfly",1.480337e-10,4.4787933e-09
+323,"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",2.0294653e-09,2.2032845e-10
+324,cabbage butterfly,1.6670858e-09,4.1577945e-08
+325,"sulphur butterfly, sulfur butterfly",1.6898668e-09,7.501751e-10
+326,"lycaenid, lycaenid butterfly",5.123178e-09,9.751795e-08
+327,"starfish, sea star",8.019564e-08,1.5393923e-08
+328,sea urchin,2.8696313e-08,1.9712831e-09
+329,"sea cucumber, holothurian",5.4179186e-09,2.2671678e-09
+330,"wood rabbit, cottontail, cottontail rabbit",1.4536781e-09,8.790537e-09
+331,hare,3.4724398e-08,1.5759491e-08
+332,"Angora, Angora rabbit",8.440174e-08,4.814411e-07
+333,hamster,5.101384e-09,3.127932e-08
+334,"porcupine, hedgehog",2.292372e-09,1.6164057e-07
+335,"fox squirrel, eastern fox squirrel, Sciurus niger",1.7486235e-10,8.243561e-09
+336,marmot,1.0089083e-08,7.197445e-10
+337,beaver,4.4242142e-08,1.6188153e-07
+338,"guinea pig, Cavia cobaya",3.7556396e-07,7.831492e-06
+339,sorrel,1.1863761e-09,4.601596e-10
+340,zebra,3.7714605e-09,7.778744e-07
+341,"hog, pig, grunter, squealer, Sus scrofa",3.4496782e-08,1.6300428e-08
+342,"wild boar, boar, Sus scrofa",3.1749008e-09,2.0305284e-09
+343,warthog,1.1361666e-09,1.305586e-08
+344,"hippopotamus, hippo, river horse, Hippopotamus amphibius",2.9347566e-10,8.5932905e-10
+345,ox,3.2730662e-07,6.116807e-07
+346,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",1.5002156e-08,8.074918e-09
+347,bison,1.0700005e-08,2.7895883e-10
+348,"ram, tup",1.6055794e-06,6.821229e-07
+349,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",4.2960173e-09,2.6232123e-09
+350,"ibex, Capra ibex",1.0911502e-08,4.691934e-10
+351,hartebeest,1.055766e-10,2.3809591e-11
+352,"impala, Aepyceros melampus",2.58523e-10,3.878053e-10
+353,gazelle,4.8509413e-10,2.1339097e-09
+354,"Arabian camel, dromedary, Camelus dromedarius",2.8566167e-09,1.759248e-09
+355,llama,7.7411113e-07,2.34919e-06
+356,weasel,8.938812e-08,1.6225797e-06
+357,mink,2.6858794e-08,5.367845e-08
+358,"polecat, fitch, foulmart, foumart, Mustela putorius",7.550986e-09,1.930813e-07
+359,"black-footed ferret, ferret, Mustela nigripes",2.4108235e-08,3.2216192e-07
+360,otter,1.2415306e-07,4.5813556e-07
+361,"skunk, polecat, wood pussy",1.1847261e-08,6.3305487e-07
+362,badger,1.0842127e-08,4.854714e-06
+363,armadillo,1.1859123e-09,1.3497224e-08
+364,"three-toed sloth, ai, Bradypus tridactylus",6.0006855e-08,1.6544891e-06
+365,"orangutan, orang, orangutang, Pongo pygmaeus",4.563389e-09,3.129842e-08
+366,"gorilla, Gorilla gorilla",1.4994232e-08,4.3050804e-08
+367,"chimpanzee, chimp, Pan troglodytes",1.6943087e-08,3.221799e-08
+368,"gibbon, Hylobates lar",4.8876313e-08,1.1745894e-07
+369,"siamang, Hylobates syndactylus, Symphalangus syndactylus",5.43902e-09,7.1257493e-09
+370,"guenon, guenon monkey",2.7109115e-09,1.2708664e-07
+371,"patas, hussar monkey, Erythrocebus patas",3.4383125e-09,1.13383045e-08
+372,baboon,3.5029586e-09,7.219047e-09
+373,macaque,2.7478588e-08,8.577095e-10
+374,langur,2.431025e-08,5.4163674e-08
+375,"colobus, colobus monkey",5.0424998e-09,2.901832e-07
+376,"proboscis monkey, Nasalis larvatus",1.6288996e-09,9.358513e-09
+377,marmoset,2.9320624e-08,6.697947e-08
+378,"capuchin, ringtail, Cebus capucinus",8.519648e-09,4.892979e-09
+379,"howler monkey, howler",9.9971125e-08,5.838332e-08
+380,"titi, titi monkey",2.7302216e-08,4.0363652e-08
+381,"spider monkey, Ateles geoffroyi",1.8223127e-09,1.1329326e-09
+382,"squirrel monkey, Saimiri sciureus",1.9960016e-09,1.3569552e-08
+383,"Madagascar cat, ring-tailed lemur, Lemur catta",6.9644313e-09,9.779824e-07
+384,"indri, indris, Indri indri, Indri brevicaudatus",5.4161307e-09,2.847602e-08
+385,"Indian elephant, Elephas maximus",1.1991095e-08,4.144764e-07
+386,"African elephant, Loxodonta africana",6.459011e-08,1.3828613e-06
+387,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",1.7284798e-09,3.869137e-09
+388,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",5.7025368e-08,2.0425644e-07
+389,"barracouta, snoek",2.6565214e-09,6.04032e-08
+390,eel,2.0572074e-08,5.542619e-06
+391,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",1.716237e-08,6.043596e-07
+392,"rock beauty, Holocanthus tricolor",7.7417633e-10,1.974747e-07
+393,anemone fish,1.3692347e-09,2.1918021e-08
+394,sturgeon,4.759668e-07,1.4959656e-06
+395,"gar, garfish, garpike, billfish, Lepisosteus osseus",3.6445786e-09,2.0088063e-07
+396,lionfish,1.0131058e-09,1.0617134e-08
+397,"puffer, pufferfish, blowfish, globefish",1.0287975e-08,5.9970826e-06
+398,abacus,5.7450155e-08,3.7917762e-09
+399,abaya,1.9653836e-08,7.1048634e-09
+400,"academic gown, academic robe, judge's robe",4.4074175e-09,1.1274723e-09
+401,"accordion, piano accordion, squeeze box",8.9850495e-08,2.4152952e-08
+402,acoustic guitar,1.12874545e-08,1.2369153e-08
+403,"aircraft carrier, carrier, flattop, attack aircraft carrier",2.3161679e-08,5.833537e-11
+404,airliner,6.646421e-07,3.4140846e-09
+405,"airship, dirigible",9.050409e-08,1.5306673e-08
+406,altar,5.674809e-10,3.7859767e-11
+407,ambulance,5.274923e-07,4.2129278e-10
+408,"amphibian, amphibious vehicle",3.882663e-08,1.1747847e-10
+409,analog clock,5.568059e-06,4.8505996e-08
+410,"apiary, bee house",4.162604e-09,2.9451225e-10
+411,apron,1.08289264e-07,4.3192106e-08
+412,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",5.48939e-07,8.195937e-08
+413,"assault rifle, assault gun",1.0488345e-08,1.7041104e-09
+414,"backpack, back pack, knapsack, packsack, rucksack, haversack",7.801568e-08,2.6108644e-08
+415,"bakery, bakeshop, bakehouse",3.0271046e-08,3.13801e-10
+416,"balance beam, beam",1.0607016e-07,2.173464e-08
+417,balloon,1.2374945e-06,2.0465137e-08
+418,"ballpoint, ballpoint pen, ballpen, Biro",8.7801635e-07,7.2458863e-07
+419,Band Aid,1.512864e-07,1.8612346e-07
+420,banjo,1.7422266e-08,3.9671435e-09
+421,"bannister, banister, balustrade, balusters, handrail",2.994921e-06,2.2634314e-08
+422,barbell,1.721042e-07,7.985318e-09
+423,barber chair,6.211615e-09,8.1794993e-10
+424,barbershop,2.9452346e-08,2.5337677e-08
+425,barn,5.0506074e-08,5.552321e-10
+426,barometer,1.0046066e-07,4.6117377e-09
+427,"barrel, cask",8.5233467e-07,1.9502474e-08
+428,"barrow, garden cart, lawn cart, wheelbarrow",1.1362399e-06,2.3474576e-09
+429,baseball,1.1877069e-06,3.4837268e-07
+430,basketball,5.3895675e-08,3.044605e-09
+431,bassinet,4.0257426e-08,4.1065732e-08
+432,bassoon,1.3835556e-07,1.740352e-08
+433,"bathing cap, swimming cap",4.875627e-07,5.795683e-08
+434,bath towel,1.2477922e-05,4.9799062e-05
+435,"bathtub, bathing tub, bath, tub",6.4668916e-07,4.9402914e-08
+436,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",7.653314e-08,1.998037e-10
+437,"beacon, lighthouse, beacon light, pharos",1.0767423e-06,3.052874e-09
+438,beaker,1.6673823e-08,7.907792e-09
+439,"bearskin, busby, shako",2.3329663e-07,9.8935246e-08
+440,beer bottle,3.666825e-07,1.6608709e-08
+441,beer glass,3.0592213e-07,8.0199555e-08
+442,"bell cote, bell cot",2.7816393e-08,1.941294e-10
+443,bib,1.9664748e-08,4.1488033e-08
+444,"bicycle-built-for-two, tandem bicycle, tandem",9.362704e-08,2.2079427e-09
+445,"bikini, two-piece",1.1156287e-07,4.3746584e-09
+446,"binder, ring-binder",2.3004117e-07,1.2232016e-07
+447,"binoculars, field glasses, opera glasses",1.1946377e-06,1.2561603e-06
+448,birdhouse,5.2397432e-08,4.9170974e-09
+449,boathouse,1.1447349e-07,5.673333e-10
+450,"bobsled, bobsleigh, bob",5.9133008e-08,7.4462125e-10
+451,"bolo tie, bolo, bola tie, bola",1.2570781e-08,1.5208661e-08
+452,"bonnet, poke bonnet",1.6373504e-07,2.575927e-05
+453,bookcase,7.2299706e-08,3.2453757e-09
+454,"bookshop, bookstore, bookstall",2.8420965e-08,3.7487946e-09
+455,bottlecap,4.090153e-08,1.2063618e-09
+456,bow,1.1983277e-08,1.2899282e-07
+457,"bow tie, bow-tie, bowtie",4.3600658e-06,2.9585055e-06
+458,"brass, memorial tablet, plaque",1.7918348e-08,3.7776038e-10
+459,"brassiere, bra, bandeau",1.9038872e-08,1.7030487e-08
+460,"breakwater, groin, groyne, mole, bulwark, seawall, jetty",7.138757e-06,3.1913456e-09
+461,"breastplate, aegis, egis",5.7854933e-08,4.057424e-07
+462,broom,2.4366885e-08,2.3460535e-08
+463,"bucket, pail",5.2979685e-05,4.0089955e-07
+464,buckle,6.2175e-07,3.2695186e-06
+465,bulletproof vest,3.7071885e-08,3.6560893e-10
+466,"bullet train, bullet",5.9262515e-08,2.0178487e-10
+467,"butcher shop, meat market",2.2474247e-09,4.828819e-10
+468,"cab, hack, taxi, taxicab",1.7306762e-06,1.16003e-08
+469,"caldron, cauldron",1.4033004e-08,6.779715e-09
+470,"candle, taper, wax light",5.164039e-09,6.2944006e-10
+471,cannon,2.9463064e-07,6.0972436e-09
+472,canoe,1.5992467e-06,9.642439e-10
+473,"can opener, tin opener",1.1416261e-08,7.218418e-08
+474,cardigan,9.463641e-08,1.7334954e-05
+475,car mirror,5.291959e-07,3.8654306e-07
+476,"carousel, carrousel, merry-go-round, roundabout, whirligig",3.7230026e-09,7.638051e-09
+477,"carpenter's kit, tool kit",1.0041568e-08,2.476773e-08
+478,carton,2.453156e-07,3.6926693e-08
+479,car wheel,6.9259636e-07,7.656706e-09
+480,"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",5.743956e-07,1.7159257e-07
+481,cassette,1.7307405e-08,9.5713354e-08
+482,cassette player,5.9222067e-08,3.9114557e-08
+483,castle,2.1398232e-07,6.2853184e-10
+484,catamaran,8.467973e-08,6.62386e-10
+485,CD player,4.428765e-08,3.2666414e-08
+486,"cello, violoncello",3.5295102e-09,6.6725275e-10
+487,"cellular telephone, cellular phone, cellphone, cell, mobile phone",4.7031264e-07,1.683776e-06
+488,chain,5.447513e-07,7.182449e-08
+489,chainlink fence,4.5044126e-07,3.5616246e-08
+490,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",7.595349e-08,1.7570809e-06
+491,"chain saw, chainsaw",3.991345e-08,1.9936117e-08
+492,chest,3.9432592e-07,2.310016e-08
+493,"chiffonier, commode",6.315553e-08,5.0055404e-11
+494,"chime, bell, gong",2.893755e-08,1.637728e-08
+495,"china cabinet, china closet",2.9023392e-08,1.580309e-10
+496,Christmas stocking,6.685852e-08,1.1965922e-06
+497,"church, church building",7.6983774e-08,1.312328e-10
+498,"cinema, movie theater, movie theatre, movie house, picture palace",5.6915077e-08,1.586383e-09
+499,"cleaver, meat cleaver, chopper",8.408039e-08,6.2593796e-07
+500,cliff dwelling,3.2695786e-09,2.9392586e-10
+501,cloak,5.1383886e-08,1.18495166e-07
+502,"clog, geta, patten, sabot",1.3171635e-07,8.7880653e-07
+503,cocktail shaker,8.435282e-08,1.1302208e-07
+504,coffee mug,6.645216e-07,1.5741213e-06
+505,coffeepot,4.1503657e-08,4.196393e-09
+506,"coil, spiral, volute, whorl, helix",6.965562e-07,9.152843e-08
+507,combination lock,1.0140199e-06,2.0527484e-07
+508,"computer keyboard, keypad",8.311461e-08,5.2160775e-08
+509,"confectionery, confectionary, candy store",1.7489256e-08,1.2058045e-10
+510,"container ship, containership, container vessel",3.92171e-07,5.934156e-11
+511,convertible,2.3645908e-08,2.2050166e-10
+512,"corkscrew, bottle screw",2.9273242e-08,1.3462181e-08
+513,"cornet, horn, trumpet, trump",3.762524e-08,6.217418e-09
+514,cowboy boot,9.907866e-08,1.0310189e-07
+515,"cowboy hat, ten-gallon hat",1.213275e-07,6.802253e-07
+516,cradle,4.5505885e-08,3.073252e-09
+517,crane,1.2700822e-07,7.547045e-10
+518,crash helmet,7.10346e-07,1.0924185e-06
+519,crate,1.6139032e-06,2.588673e-09
+520,"crib, cot",3.455137e-08,3.952213e-09
+521,Crock Pot,3.913048e-08,2.058496e-09
+522,croquet ball,4.1532508e-07,3.0589182e-09
+523,crutch,1.8642639e-06,1.4061547e-07
+524,cuirass,1.967184e-08,3.0600578e-08
+525,"dam, dike, dyke",8.665496e-08,1.0106481e-09
+526,desk,3.7766092e-08,6.0531646e-09
+527,desktop computer,2.8642233e-08,3.7907657e-08
+528,"dial telephone, dial phone",5.3246843e-08,1.7176504e-08
+529,"diaper, nappy, napkin",5.1689074e-07,2.2515883e-06
+530,digital clock,4.0668178e-07,4.665693e-08
+531,digital watch,3.1572933e-06,6.7214295e-08
+532,"dining table, board",3.012054e-09,1.05827465e-11
+533,"dishrag, dishcloth",3.3988332e-08,5.1220333e-08
+534,"dishwasher, dish washer, dishwashing machine",1.0047326e-06,3.8442536e-08
+535,"disk brake, disc brake",1.05367135e-07,8.614321e-08
+536,"dock, dockage, docking facility",2.4926824e-06,1.1873916e-09
+537,"dogsled, dog sled, dog sleigh",2.2211307e-06,3.056119e-09
+538,dome,1.2608065e-07,8.824029e-10
+539,"doormat, welcome mat",1.5514162e-05,4.2009864e-07
+540,"drilling platform, offshore rig",4.6049056e-08,1.5672666e-10
+541,"drum, membranophone, tympan",2.5407687e-07,8.112372e-08
+542,drumstick,1.6560698e-07,1.3297933e-08
+543,dumbbell,4.0729932e-07,4.6728e-08
+544,Dutch oven,3.4321218e-08,7.2109076e-11
+545,"electric fan, blower",1.1095066e-07,2.621086e-06
+546,electric guitar,8.050548e-09,2.650483e-08
+547,electric locomotive,6.8996026e-10,3.9920953e-12
+548,entertainment center,2.4131788e-08,1.1013273e-09
+549,envelope,5.383485e-08,5.729546e-09
+550,espresso maker,1.5167332e-08,1.401926e-09
+551,face powder,6.245071e-08,1.5066952e-08
+552,"feather boa, boa",7.989324e-07,2.4569342e-06
+553,"file, file cabinet, filing cabinet",3.3941967e-07,2.961776e-09
+554,fireboat,1.4340259e-06,5.675284e-09
+555,"fire engine, fire truck",1.3113377e-07,1.0303155e-10
+556,"fire screen, fireguard",2.634255e-09,5.539765e-10
+557,"flagpole, flagstaff",1.5513564e-06,8.845271e-08
+558,"flute, transverse flute",7.512676e-08,1.782804e-07
+559,folding chair,5.2527747e-07,4.49995e-10
+560,football helmet,1.8618458e-06,5.4272385e-07
+561,forklift,1.2499693e-07,1.3003862e-09
+562,fountain,4.023196e-07,1.5816684e-07
+563,fountain pen,6.563455e-08,1.9341222e-08
+564,four-poster,1.6971053e-09,1.6502822e-09
+565,freight car,2.6989937e-09,3.1530736e-11
+566,"French horn, horn",1.02376285e-08,2.572465e-09
+567,"frying pan, frypan, skillet",2.2130092e-08,4.74572e-10
+568,fur coat,5.6855976e-07,1.0240082e-06
+569,"garbage truck, dustcart",2.3895815e-08,6.282284e-11
+570,"gasmask, respirator, gas helmet",1.9234999e-07,9.881445e-06
+571,"gas pump, gasoline pump, petrol pump, island dispenser",3.2180688e-07,4.614457e-09
+572,goblet,5.1685845e-08,1.5252651e-07
+573,go-kart,1.7263817e-08,3.7438477e-10
+574,golf ball,2.6925514e-05,8.9797794e-07
+575,"golfcart, golf cart",4.036053e-08,1.7977199e-10
+576,gondola,3.7075704e-08,9.214978e-11
+577,"gong, tam-tam",1.7636816e-08,6.0430136e-09
+578,gown,4.348872e-07,2.3837712e-08
+579,"grand piano, grand",5.0356878e-08,2.242336e-09
+580,"greenhouse, nursery, glasshouse",1.7606299e-08,5.7249333e-10
+581,"grille, radiator grille",6.9485004e-08,1.6338084e-09
+582,"grocery store, grocery, food market, market",3.302491e-08,2.2412962e-10
+583,guillotine,3.2267085e-08,7.692067e-10
+584,hair slide,2.3132307e-09,6.548519e-08
+585,hair spray,1.9781622e-07,1.5469554e-06
+586,half track,5.5461045e-09,7.7656825e-11
+587,hammer,4.3606002e-07,1.2336745e-06
+588,hamper,2.3967432e-08,2.3382935e-08
+589,"hand blower, blow dryer, blow drier, hair dryer, hair drier",6.6247657e-07,5.8096037e-05
+590,"hand-held computer, hand-held microcomputer",1.6213063e-08,3.0235343e-09
+591,"handkerchief, hankie, hanky, hankey",8.128564e-08,2.2513059e-07
+592,"hard disc, hard disk, fixed disk",2.2197518e-08,6.389739e-08
+593,"harmonica, mouth organ, harp, mouth harp",8.1600206e-08,5.2728564e-07
+594,harp,3.8403045e-09,3.6896473e-09
+595,"harvester, reaper",2.3590665e-09,1.8369034e-11
+596,hatchet,2.523616e-07,2.1982635e-07
+597,holster,2.0025006e-08,1.5344114e-07
+598,"home theater, home theatre",1.848037e-08,9.5003605e-09
+599,honeycomb,2.796012e-08,1.1337541e-09
+600,"hook, claw",7.159978e-07,1.0834666e-06
+601,"hoopskirt, crinoline",1.2939279e-08,2.084947e-09
+602,"horizontal bar, high bar",7.573144e-08,4.1098875e-08
+603,"horse cart, horse-cart",5.6935896e-09,1.9070458e-10
+604,hourglass,1.6025979e-08,2.3430158e-09
+605,iPod,1.5794117e-07,2.2805214e-07
+606,"iron, smoothing iron",3.266163e-07,2.0305328e-05
+607,jack-o'-lantern,3.3601375e-09,4.866912e-11
+608,"jean, blue jean, denim",2.5094025e-06,6.1720802e-06
+609,"jeep, landrover",6.534061e-07,8.2551227e-10
+610,"jersey, T-shirt, tee shirt",1.0459888e-06,1.2528403e-06
+611,jigsaw puzzle,3.8825817e-08,8.772716e-09
+612,"jinrikisha, ricksha, rickshaw",1.3421144e-08,7.376898e-11
+613,joystick,4.8221548e-08,9.1684804e-08
+614,kimono,1.0757383e-08,7.349033e-08
+615,knee pad,2.9043445e-06,7.867676e-05
+616,knot,1.9292106e-06,4.1648786e-06
+617,"lab coat, laboratory coat",6.1840655e-07,1.4321624e-07
+618,ladle,2.6619396e-08,3.0456622e-09
+619,"lampshade, lamp shade",4.211875e-08,3.2931478e-08
+620,"laptop, laptop computer",3.692026e-07,5.567364e-08
+621,"lawn mower, mower",9.915522e-08,2.1864024e-09
+622,"lens cap, lens cover",2.2800264e-06,1.2214898e-06
+623,"letter opener, paper knife, paperknife",3.6223187e-09,1.00061905e-08
+624,library,1.2023074e-07,1.4582897e-09
+625,lifeboat,3.5190948e-07,2.979526e-10
+626,"lighter, light, igniter, ignitor",2.024619e-07,3.7286955e-07
+627,"limousine, limo",5.992279e-08,2.6229308e-10
+628,"liner, ocean liner",8.170139e-07,9.936766e-10
+629,"lipstick, lip rouge",1.1466496e-08,3.5627916e-09
+630,Loafer,8.404383e-08,1.8439758e-08
+631,lotion,2.1395623e-07,1.4430861e-08
+632,"loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",3.84442e-07,5.145173e-07
+633,"loupe, jeweler's loupe",1.2345492e-07,3.6085345e-07
+634,"lumbermill, sawmill",3.3314587e-09,2.6320718e-10
+635,magnetic compass,2.6128394e-08,2.1455002e-09
+636,"mailbag, postbag",1.746961e-07,8.745868e-07
+637,"mailbox, letter box",1.6816223e-06,3.1678213e-09
+638,maillot,2.4451692e-06,5.8304977e-08
+639,"maillot, tank suit",2.2045423e-07,1.3624585e-08
+640,manhole cover,4.0857554e-08,6.7496997e-10
+641,maraca,7.0104825e-08,3.1634574e-08
+642,"marimba, xylophone",5.7894454e-08,1.3402275e-09
+643,mask,2.1975733e-07,5.6043154e-05
+644,matchstick,1.4336587e-07,6.0666686e-08
+645,maypole,3.6624526e-09,5.838861e-10
+646,"maze, labyrinth",4.825327e-07,3.9342445e-09
+647,measuring cup,1.9442534e-07,6.855721e-09
+648,"medicine chest, medicine cabinet",7.36467e-08,9.174213e-09
+649,"megalith, megalithic structure",2.1161636e-08,1.1910775e-09
+650,"microphone, mike",1.6388432e-06,0.00013237253
+651,"microwave, microwave oven",4.047624e-08,3.500987e-08
+652,military uniform,8.768261e-08,1.0485371e-09
+653,milk can,5.705322e-08,1.9092632e-09
+654,minibus,3.8294755e-07,1.2011935e-09
+655,"miniskirt, mini",5.375259e-07,2.0149268e-07
+656,minivan,2.7450392e-07,4.250718e-10
+657,missile,8.8467445e-08,2.8838046e-10
+658,mitten,1.4591764e-08,5.799833e-07
+659,mixing bowl,1.775059e-07,6.92712e-09
+660,"mobile home, manufactured home",9.315508e-08,4.4205875e-10
+661,Model T,6.7997674e-09,3.380561e-11
+662,modem,1.1496607e-08,1.2959332e-07
+663,monastery,2.4543703e-09,2.6620251e-11
+664,monitor,1.2581161e-07,3.5225435e-07
+665,moped,8.3004984e-08,7.751362e-10
+666,mortar,4.0959436e-09,1.0073822e-09
+667,mortarboard,2.1476288e-07,5.1861457e-07
+668,mosque,3.1355583e-07,8.3241064e-10
+669,mosquito net,2.0210713e-09,9.208017e-08
+670,"motor scooter, scooter",1.1732848e-07,1.8961368e-09
+671,"mountain bike, all-terrain bike, off-roader",1.4343836e-07,9.351162e-09
+672,mountain tent,1.02358655e-07,2.4702094e-09
+673,"mouse, computer mouse",3.7358298e-08,3.4805484e-07
+674,mousetrap,9.404992e-09,3.0143287e-08
+675,moving van,2.2374998e-07,7.1534306e-10
+676,muzzle,3.8535123e-05,0.0006986384
+677,nail,5.327051e-08,3.8290832e-08
+678,neck brace,6.648665e-07,2.2348122e-06
+679,necklace,4.8429376e-09,3.5693417e-09
+680,nipple,7.045092e-08,6.023799e-08
+681,"notebook, notebook computer",8.987899e-07,1.2826466e-07
+682,obelisk,2.6642917e-08,7.27762e-10
+683,"oboe, hautboy, hautbois",8.0619394e-08,1.4114032e-08
+684,"ocarina, sweet potato",5.6725852e-08,8.9222016e-07
+685,"odometer, hodometer, mileometer, milometer",3.2945575e-08,2.3390638e-09
+686,oil filter,1.3542078e-08,6.0723323e-07
+687,"organ, pipe organ",6.2641674e-09,1.344979e-11
+688,"oscilloscope, scope, cathode-ray oscilloscope, CRO",1.53758e-08,2.9765015e-08
+689,overskirt,2.1766424e-09,8.374034e-09
+690,oxcart,4.2648707e-09,8.512535e-11
+691,oxygen mask,1.7703051e-07,1.9957613e-06
+692,packet,6.281579e-08,1.2341563e-07
+693,"paddle, boat paddle",3.15128e-06,1.859832e-08
+694,"paddlewheel, paddle wheel",1.0887479e-06,4.120213e-10
+695,padlock,6.695815e-07,2.3902896e-07
+696,paintbrush,4.4013353e-07,2.6375978e-06
+697,"pajama, pyjama, pj's, jammies",4.7822745e-08,4.9242235e-08
+698,palace,8.2618165e-08,3.8974046e-11
+699,"panpipe, pandean pipe, syrinx",1.289321e-08,1.8256172e-08
+700,paper towel,1.4925717e-05,4.243738e-05
+701,"parachute, chute",1.3455737e-06,6.912685e-08
+702,"parallel bars, bars",2.9239663e-07,3.176572e-08
+703,park bench,1.1731556e-06,1.7846775e-08
+704,parking meter,3.193125e-06,6.904884e-08
+705,"passenger car, coach, carriage",1.889463e-07,6.124663e-11
+706,"patio, terrace",8.445162e-09,1.2815465e-10
+707,"pay-phone, pay-station",2.6859294e-07,3.1231455e-08
+708,"pedestal, plinth, footstall",1.5280762e-07,2.8122637e-08
+709,"pencil box, pencil case",3.0002038e-08,9.474394e-07
+710,pencil sharpener,4.9891383e-08,2.523619e-07
+711,"perfume, essence",2.5355341e-08,4.3058275e-08
+712,Petri dish,2.4206562e-08,6.1339636e-09
+713,photocopier,1.0598407e-08,1.0194887e-08
+714,"pick, plectrum, plectron",3.09785e-08,2.3703474e-07
+715,pickelhaube,3.795585e-09,2.6587259e-08
+716,"picket fence, paling",9.197084e-07,1.5141886e-08
+717,"pickup, pickup truck",8.60656e-08,2.3099167e-10
+718,pier,2.385796e-07,2.8834252e-10
+719,"piggy bank, penny bank",3.028716e-08,1.1434782e-07
+720,pill bottle,6.102572e-07,4.3343522e-07
+721,pillow,1.8948133e-07,4.027318e-06
+722,ping-pong ball,1.4325565e-06,4.4336296e-08
+723,pinwheel,1.5162792e-08,4.6609676e-09
+724,"pirate, pirate ship",7.8379125e-09,3.6792658e-10
+725,"pitcher, ewer",2.4185562e-08,3.3725026e-08
+726,"plane, carpenter's plane, woodworking plane",5.412493e-10,7.6433915e-11
+727,planetarium,7.932365e-08,3.0693974e-09
+728,plastic bag,1.2425323e-06,1.0673733e-06
+729,plate rack,7.468952e-09,2.684717e-10
+730,"plow, plough",6.5320545e-09,2.1045152e-10
+731,"plunger, plumber's helper",2.9434696e-07,8.78814e-09
+732,"Polaroid camera, Polaroid Land camera",4.94851e-08,4.4307637e-08
+733,pole,6.5851923e-06,1.2982092e-07
+734,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",6.871233e-07,1.1787131e-09
+735,poncho,9.290121e-09,2.734831e-07
+736,"pool table, billiard table, snooker table",2.420565e-07,1.268646e-08
+737,"pop bottle, soda bottle",2.13597e-07,2.2247049e-08
+738,"pot, flowerpot",1.2315106e-09,3.4216383e-10
+739,potter's wheel,7.474738e-09,5.2097313e-09
+740,power drill,1.5169779e-06,3.475588e-06
+741,"prayer rug, prayer mat",3.0333986e-08,1.7647336e-08
+742,printer,9.329564e-08,1.8473333e-09
+743,"prison, prison house",8.3662535e-08,3.1348826e-09
+744,"projectile, missile",8.623797e-08,3.9679363e-10
+745,projector,7.7292746e-08,5.2957154e-07
+746,"puck, hockey puck",3.9129156e-07,3.8715456e-08
+747,"punching bag, punch bag, punching ball, punchball",1.6414295e-07,1.1695526e-07
+748,purse,8.862853e-09,5.380237e-08
+749,"quill, quill pen",2.0726503e-08,2.4045567e-05
+750,"quilt, comforter, comfort, puff",7.9103324e-07,2.433713e-07
+751,"racer, race car, racing car",1.0909435e-07,2.874887e-09
+752,"racket, racquet",1.0709775e-06,3.8986317e-07
+753,radiator,3.7142254e-07,2.903911e-07
+754,"radio, wireless",9.430954e-08,4.3394827e-08
+755,"radio telescope, radio reflector",6.0523995e-08,8.8933216e-10
+756,rain barrel,1.6121102e-07,8.7316714e-08
+757,"recreational vehicle, RV, R.V.",2.9303087e-07,1.9226931e-09
+758,reel,3.1391264e-06,2.1308635e-07
+759,reflex camera,9.455702e-08,3.736424e-07
+760,"refrigerator, icebox",1.5518276e-07,1.9269004e-09
+761,"remote control, remote",8.5420635e-07,2.6436014e-06
+762,"restaurant, eating house, eating place, eatery",1.864906e-08,8.465031e-11
+763,"revolver, six-gun, six-shooter",5.9442486e-09,1.918174e-08
+764,rifle,1.2842797e-08,7.1502697e-09
+765,"rocking chair, rocker",6.5693445e-07,1.267635e-08
+766,rotisserie,5.9117418e-09,4.105825e-10
+767,"rubber eraser, rubber, pencil eraser",3.2921503e-07,5.4598297e-07
+768,rugby ball,1.1447534e-05,3.4112892e-07
+769,"rule, ruler",3.8366954e-07,7.733619e-08
+770,running shoe,4.205487e-07,2.524915e-06
+771,safe,3.925029e-07,1.841175e-08
+772,safety pin,9.967778e-09,1.4205905e-07
+773,"saltshaker, salt shaker",4.061829e-07,1.3615318e-07
+774,sandal,2.0105835e-08,3.369333e-08
+775,sarong,4.689938e-08,3.86293e-08
+776,"sax, saxophone",5.2634928e-08,2.7278615e-08
+777,scabbard,6.4347594e-09,1.4883693e-08
+778,"scale, weighing machine",9.559334e-07,3.0076325e-08
+779,school bus,1.6205861e-06,1.5438963e-09
+780,schooner,1.9740886e-08,3.6064443e-10
+781,scoreboard,1.7872756e-07,1.0288295e-09
+782,"screen, CRT screen",5.636584e-08,1.00345765e-07
+783,screw,9.9977036e-08,6.144247e-08
+784,screwdriver,1.7256042e-07,2.2201662e-07
+785,"seat belt, seatbelt",4.4175654e-06,1.0300332e-05
+786,sewing machine,2.5488054e-08,6.7863034e-08
+787,"shield, buckler",8.19979e-08,6.140452e-08
+788,"shoe shop, shoe-shop, shoe store",6.9763706e-09,4.137469e-09
+789,shoji,4.479372e-08,3.8940797e-09
+790,shopping basket,2.8695712e-08,7.7570155e-09
+791,shopping cart,2.5560558e-07,6.857709e-09
+792,shovel,5.655368e-07,2.8436615e-08
+793,shower cap,4.202418e-06,7.768791e-06
+794,shower curtain,1.1831198e-07,2.5075957e-07
+795,ski,4.8859e-07,5.635161e-08
+796,ski mask,1.15315544e-07,8.893771e-06
+797,sleeping bag,3.6974913e-07,2.2268043e-06
+798,"slide rule, slipstick",1.9170306e-08,1.3934432e-09
+799,sliding door,4.6371247e-06,3.0622708e-08
+800,"slot, one-armed bandit",5.1694123e-08,1.3565689e-09
+801,snorkel,1.5048003e-07,5.532677e-07
+802,snowmobile,9.9451825e-08,1.706996e-09
+803,"snowplow, snowplough",1.9364677e-08,2.2430922e-10
+804,soap dispenser,5.686451e-08,4.568012e-08
+805,soccer ball,0.00016685152,2.8532466e-07
+806,sock,8.19313e-08,1.9095355e-06
+807,"solar dish, solar collector, solar furnace",4.6946013e-08,3.0392888e-10
+808,sombrero,4.1793035e-07,2.612654e-07
+809,soup bowl,1.1233503e-08,1.4587292e-09
+810,space bar,1.2985983e-08,7.6059475e-10
+811,space heater,4.5500266e-07,8.472365e-07
+812,space shuttle,1.4832991e-06,9.681236e-09
+813,spatula,5.3286135e-07,5.5403305e-08
+814,speedboat,5.7152914e-07,3.0546272e-09
+815,"spider web, spider's web",2.8145733e-08,2.0855765e-08
+816,spindle,4.060987e-08,6.181608e-07
+817,"sports car, sport car",5.6652325e-08,9.639902e-10
+818,"spotlight, spot",6.8292854e-07,1.5150481e-06
+819,stage,1.0985567e-07,2.0765037e-07
+820,steam locomotive,1.3521971e-08,4.5642688e-11
+821,steel arch bridge,5.7335328e-08,3.04465e-10
+822,steel drum,3.8718088e-07,7.5002066e-10
+823,stethoscope,2.2450888e-06,5.108582e-07
+824,stole,5.639308e-07,8.248108e-07
+825,stone wall,1.623584e-08,1.9681899e-10
+826,"stopwatch, stop watch",5.3174205e-07,1.505952e-07
+827,stove,1.7848594e-08,3.58526e-09
+828,strainer,8.995257e-07,6.159749e-06
+829,"streetcar, tram, tramcar, trolley, trolley car",1.5159928e-08,4.2745384e-11
+830,stretcher,4.6945183e-07,8.2163076e-10
+831,"studio couch, day bed",5.757938e-08,3.9841974e-09
+832,"stupa, tope",9.018595e-09,5.1308745e-11
+833,"submarine, pigboat, sub, U-boat",5.7690965e-08,4.647412e-09
+834,"suit, suit of clothes",2.2844435e-07,4.028351e-08
+835,sundial,8.767487e-09,5.4104454e-10
+836,sunglass,1.2370886e-06,6.611184e-07
+837,"sunglasses, dark glasses, shades",1.901697e-06,4.747977e-07
+838,"sunscreen, sunblock, sun blocker",4.827877e-07,7.534066e-08
+839,suspension bridge,1.4577911e-08,2.2840113e-10
+840,"swab, swob, mop",1.8507302e-06,0.0002004815
+841,sweatshirt,4.531285e-07,3.4341156e-07
+842,"swimming trunks, bathing trunks",1.3053182e-06,6.893264e-08
+843,swing,1.038317e-08,4.018505e-08
+844,"switch, electric switch, electrical switch",2.614326e-07,1.2514843e-07
+845,syringe,7.687915e-08,6.588108e-08
+846,table lamp,1.3014971e-08,1.7992344e-08
+847,"tank, army tank, armored combat vehicle, armoured combat vehicle",4.661538e-10,5.9690176e-11
+848,tape player,2.4568294e-07,7.074226e-08
+849,teapot,6.899593e-09,1.0835875e-08
+850,"teddy, teddy bear",2.6147416e-06,7.689629e-05
+851,"television, television system",1.4483714e-07,3.918899e-07
+852,tennis ball,0.0007908903,1.3841353e-05
+853,"thatch, thatched roof",1.8137684e-09,5.31164e-10
+854,"theater curtain, theatre curtain",3.3920444e-09,1.2902796e-08
+855,thimble,5.6987208e-08,2.4218252e-06
+856,"thresher, thrasher, threshing machine",1.3035584e-09,2.618146e-11
+857,throne,6.215253e-09,3.394901e-10
+858,tile roof,2.044505e-09,1.1295096e-11
+859,toaster,2.5481345e-08,4.4613158e-09
+860,"tobacco shop, tobacconist shop, tobacconist",1.07503695e-08,3.75643e-10
+861,toilet seat,2.0740107e-08,8.179172e-10
+862,torch,5.788907e-07,2.6793588e-08
+863,totem pole,2.2649967e-08,2.3023269e-08
+864,"tow truck, tow car, wrecker",7.517001e-09,5.3017764e-12
+865,toyshop,5.4402573e-08,7.857844e-09
+866,tractor,2.0498907e-08,2.945954e-10
+867,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",1.034682e-07,3.3248657e-10
+868,tray,8.928214e-08,4.112058e-09
+869,trench coat,6.003619e-07,3.9571322e-08
+870,"tricycle, trike, velocipede",2.952607e-07,1.706156e-09
+871,trimaran,2.4476769e-08,3.8795914e-10
+872,tripod,2.8190598e-06,7.849056e-08
+873,triumphal arch,3.428674e-08,3.6527928e-10
+874,"trolleybus, trolley coach, trackless trolley",1.4871815e-08,1.0418696e-11
+875,trombone,2.2881578e-08,1.1869591e-09
+876,"tub, vat",1.9801187e-06,3.276126e-08
+877,turnstile,2.671878e-07,2.8971865e-09
+878,typewriter keyboard,2.6879228e-09,6.1962124e-10
+879,umbrella,1.354527e-06,3.166216e-08
+880,"unicycle, monocycle",6.2232965e-07,3.8377916e-08
+881,"upright, upright piano",2.6418189e-08,4.025436e-10
+882,"vacuum, vacuum cleaner",5.3928557e-07,4.0282075e-07
+883,vase,5.156696e-09,2.9201e-08
+884,vault,2.8398533e-08,4.4145124e-10
+885,velvet,6.286134e-08,1.8779614e-08
+886,vending machine,2.720671e-07,3.61602e-09
+887,vestment,4.7110857e-09,9.394326e-11
+888,viaduct,7.93359e-08,4.9199284e-10
+889,"violin, fiddle",2.6150166e-09,2.7676168e-09
+890,volleyball,9.819279e-07,2.1117389e-08
+891,waffle iron,5.5781886e-08,5.4044946e-10
+892,wall clock,7.502552e-08,1.0274083e-08
+893,"wallet, billfold, notecase, pocketbook",1.1432254e-08,3.5687052e-07
+894,"wardrobe, closet, press",6.7796464e-08,3.2145618e-08
+895,"warplane, military plane",7.690672e-08,1.1345568e-09
+896,"washbasin, handbasin, washbowl, lavabo, wash-hand basin",1.3304533e-07,1.108538e-07
+897,"washer, automatic washer, washing machine",1.9489521e-07,3.9400382e-07
+898,water bottle,1.5542832e-05,3.2096275e-06
+899,water jug,1.0071533e-07,2.9000075e-08
+900,water tower,1.9143077e-07,1.7638442e-09
+901,whiskey jug,8.1556867e-10,3.564788e-10
+902,whistle,2.3824605e-07,1.22066e-07
+903,wig,6.404278e-07,2.0012058e-05
+904,window screen,5.302712e-08,2.7790016e-08
+905,window shade,1.6385641e-07,1.0934839e-06
+906,Windsor tie,3.0232158e-08,5.99352e-08
+907,wine bottle,5.099901e-07,1.8008754e-08
+908,wing,1.2004404e-06,6.6921935e-10
+909,wok,1.7866101e-08,7.60338e-10
+910,wooden spoon,3.001745e-07,2.0260225e-08
+911,"wool, woolen, woollen",2.7067918e-07,1.7105684e-05
+912,"worm fence, snake fence, snake-rail fence, Virginia fence",2.0248973e-07,8.215229e-09
+913,wreck,7.752855e-08,3.0885583e-10
+914,yawl,8.487048e-09,4.0681875e-11
+915,yurt,3.484661e-08,3.3572314e-10
+916,"web site, website, internet site, site",4.5401313e-07,1.8612506e-07
+917,comic book,2.2946434e-08,6.5533636e-09
+918,"crossword puzzle, crossword",2.540426e-06,1.7733453e-07
+919,street sign,1.00872604e-07,1.6431431e-09
+920,"traffic light, traffic signal, stoplight",4.6310923e-08,2.0661103e-10
+921,"book jacket, dust cover, dust jacket, dust wrapper",4.7299867e-08,1.0473794e-06
+922,menu,9.36829e-09,1.1415543e-10
+923,plate,9.615857e-09,1.02783844e-10
+924,guacamole,9.960194e-09,8.3568576e-11
+925,consomme,4.2826717e-10,6.04055e-12
+926,"hot pot, hotpot",1.8415406e-09,1.0512234e-11
+927,trifle,1.0687176e-08,1.2442779e-10
+928,"ice cream, icecream",1.488932e-07,2.4435782e-09
+929,"ice lolly, lolly, lollipop, popsicle",9.2690956e-05,8.616782e-07
+930,French loaf,6.2573996e-08,3.0990266e-10
+931,"bagel, beigel",3.7909368e-07,1.1228818e-09
+932,pretzel,7.459645e-08,1.7484063e-09
+933,cheeseburger,6.0136975e-09,2.1029612e-11
+934,"hotdog, hot dog, red hot",8.277447e-08,1.2600434e-09
+935,mashed potato,1.793224e-07,3.7640538e-10
+936,head cabbage,1.1475396e-07,4.4268525e-08
+937,broccoli,8.905593e-08,4.8762953e-08
+938,cauliflower,2.6832794e-07,1.2121031e-08
+939,"zucchini, courgette",3.1757928e-08,3.0195885e-08
+940,spaghetti squash,4.3830224e-09,1.6554043e-10
+941,acorn squash,2.7850942e-09,2.7573869e-11
+942,butternut squash,7.742669e-09,6.72359e-10
+943,"cucumber, cuke",1.7067475e-08,5.4793117e-09
+944,"artichoke, globe artichoke",6.969388e-09,1.5267477e-09
+945,bell pepper,8.731424e-09,1.6461318e-10
+946,cardoon,1.082173e-09,2.6883051e-09
+947,mushroom,5.715898e-08,1.564877e-06
+948,Granny Smith,4.0515542e-07,6.001604e-09
+949,strawberry,9.957174e-09,1.1603681e-09
+950,orange,5.7046037e-08,1.305279e-09
+951,lemon,1.8178085e-07,2.082202e-08
+952,fig,4.209479e-09,2.0624644e-10
+953,"pineapple, ananas",1.6806329e-08,3.2182393e-10
+954,banana,6.7020025e-08,1.4052551e-07
+955,"jackfruit, jak, jack",1.8978534e-09,5.2621485e-10
+956,custard apple,3.3062094e-08,1.8060042e-08
+957,pomegranate,4.850312e-10,2.1398733e-12
+958,hay,6.576274e-08,2.7704425e-09
+959,carbonara,1.1545853e-08,8.651917e-11
+960,"chocolate sauce, chocolate syrup",1.3277138e-08,2.5505953e-10
+961,dough,2.150149e-06,2.442764e-08
+962,"meat loaf, meatloaf",1.5633632e-09,2.448889e-12
+963,"pizza, pizza pie",1.2912745e-09,2.3618626e-11
+964,potpie,2.4163187e-09,1.7981441e-11
+965,burrito,4.3118142e-08,2.1052962e-08
+966,red wine,2.702993e-08,3.0646705e-09
+967,espresso,3.728448e-08,5.7918674e-09
+968,cup,2.182803e-06,9.297728e-07
+969,eggnog,2.0244366e-08,4.3837023e-10
+970,alp,1.684872e-07,1.4806726e-09
+971,bubble,7.314215e-07,8.4490104e-08
+972,"cliff, drop, drop-off",5.3289316e-08,1.8359139e-09
+973,coral reef,1.8129912e-08,2.745007e-08
+974,geyser,3.2890622e-07,5.029171e-10
+975,"lakeside, lakeshore",8.936367e-06,4.36109e-08
+976,"promontory, headland, head, foreland",1.9388578e-07,1.6927228e-10
+977,"sandbar, sand bar",8.352033e-06,8.8497764e-08
+978,"seashore, coast, seacoast, sea-coast",1.6260757e-06,1.02626645e-08
+979,"valley, vale",4.105535e-08,5.479999e-10
+980,volcano,2.9082686e-08,7.1531986e-10
+981,"ballplayer, baseball player",7.787921e-08,5.2007016e-07
+982,"groom, bridegroom",4.9987665e-07,2.184235e-09
+983,scuba diver,2.0290367e-08,1.7593823e-07
+984,rapeseed,3.4857402e-07,8.885611e-09
+985,daisy,2.176223e-09,1.3736047e-09
+986,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",1.2102662e-10,4.9699134e-11
+987,corn,1.17559885e-07,7.3104324e-08
+988,acorn,2.2329656e-09,1.3356563e-10
+989,"hip, rose hip, rosehip",1.092212e-08,2.9160677e-10
+990,"buckeye, horse chestnut, conker",7.761605e-10,1.2410702e-11
+991,coral fungus,2.5018487e-08,2.2912294e-09
+992,agaric,2.9178018e-09,5.6215643e-10
+993,gyromitra,1.8487402e-10,5.5194777e-12
+994,"stinkhorn, carrion fungus",5.537754e-09,1.0592672e-09
+995,earthstar,1.1557289e-08,6.115247e-10
+996,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",2.0499054e-09,1.8609133e-09
+997,bolete,1.0383442e-09,7.826399e-10
+998,"ear, spike, capitulum",6.1026505e-08,1.5770196e-08
+999,"toilet tissue, toilet paper, bathroom tissue",3.1011892e-05,3.1257812e-05
